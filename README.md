@@ -2,7 +2,7 @@
 
 <h2 id="content"> 📝 Contents </h2>
 
- 1. [Technologies Used](#tech)
+[Technologies Used](#tech)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
