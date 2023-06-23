@@ -1,12 +1,7 @@
 <h1 align = "center"> Complaint Management Portal </h1>
+<h2> Architecture Design </h2>
 
-<h2 id="content"> 📝 Contents </h2>
-
-[Technologies Used](#tech)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h2 id="tech"> ⚡ Technologies Used </h2>
+<h2> Technologies Used </h2>
 <ul>
   <li> NodeJS - Event I/O for backend </li>
   <li> Express - Fast node.js network app framework </li>
